@@ -17,6 +17,6 @@ How does the Python code works?
 7)	Creates an HTML code with the percentage of results approved and disapproved represented in a pie graph and all the information mention on (6);
 8)	Opens a web browser with the results;
 
-* CPLD - Complex Programmable Logic Device
-** FPGA - Field Programmable Gate Array
+- * CPLD - Complex Programmable Logic Device
+- ** FPGA - Field Programmable Gate Array
 

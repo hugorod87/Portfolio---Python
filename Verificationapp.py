@@ -269,9 +269,9 @@ class VerificationMultipleWindow(Toplevel):
             summaryfile(int(identicalfiles), int(differentfiles), wrongfiles[:], resultmsg)
             self.destroy()
         except NameError:
-            messagebox.showinfo("Results", "Import the files first!")
+            messagebox.showinfo("Results", "Import the files first")
         except ValueError:
-            messagebox.showinfo("Results", "Number of lines does not match! Check file first!")
+            messagebox.showinfo("Results", "Number of lines does not match.")
 
 if __name__ == "__main__":
     root = tk.Tk()
